@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Category,Product,Region,State,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Mode
+ORD1002,2026-06-13,CUST1048,Riya Desai,Electronics,Monitor,West,Goa,5,9409,0,47045,31898.15,15146.85,UPI
+ORD1003,2026-06-01,CUST1013,Riya Desai,Accessories,Keyboard,West,Goa,1,830,0,830,561.78,268.22,Cash
+ORD1004,2026-02-26,CUST1028,Kunal More,Accessories,Mouse,North,Haryana,5,1606,0,8030,6562.84,1467.16,Debit Card
+ORD1005,2026-02-09,CUST1039,Rahul Verma,Furniture,Bookshelf,South,Tamil Nadu,2,9014,0,18028,12958.19,5069.81,UPI
+ORD1006,2026-04-28,CUST1013,Rohan Mehta,Electronics,Monitor,South,Telangana,7,24943,0,174601,133313.2,41287.8,UPI
+ORD1007,2026-06-19,CUST1030,Isha Gupta,Furniture,Table Lamp,East,Odisha,2,1985,0,3970,3355.78,614.22,Credit Card
+ORD1008,2026-04-05,CUST1047,Pooja Shah,Office Supplies,Stapler,North,Haryana,5,227,0,1135,883.45,251.55,Credit Card
+ORD1009,2026-04-29,CUST1003,Kunal More,Accessories,Backpack,West,Maharashtra,4,2005,0.05,7619.0,6393.42,1225.58,Cash
+ORD1010,2026-03-10,CUST1030,Vikram Singh,Electronics,Headphones,East,Bihar,6,2928,0,17568,13885.99,3682.01,Debit Card
+ORD1011,2026-02-05,CUST1015,Vikram Singh,Furniture,Table Lamp,East,Odisha,5,3099,0.15,13170.75,9632.99,3537.76,Net Banking
+ORD1012,2026-05-07,CUST1028,Kavya Iyer,Electronics,Headphones,North,Haryana,1,7391,0,7391,4876.13,2514.87,UPI
+ORD1013,2026-04-09,CUST1047,Sneha Kulkarni,Accessories,Backpack,West,Goa,8,3340,0.15,22712.0,15566.07,7145.93,Net Banking
+ORD1014,2026-03-10,CUST1047,Rahul Verma,Office Supplies,Printer Paper,West,Goa,5,307,0.1,1381.5,913.34,468.16,Net Banking
+ORD1015,2026-02-15,CUST1049,Neha Joshi,Electronics,Monitor,North,Punjab,5,23262,0.15,98863.5,76948.65,21914.85,Net Banking
+ORD1016,2026-05-16,CUST1016,Priya Patil,Electronics,Laptop,South,Tamil Nadu,6,84626,0.1,456980.4,285641.98,171338.42,Credit Card
+ORD1017,2026-05-26,CUST1043,Tanvi Jain,Electronics,Headphones,North,Delhi,8,1901,0,15208,13295.99,1912.01,Net Banking
+ORD1018,2026-02-12,CUST1020,Sahil Khan,Office Supplies,Notebook,North,Haryana,7,215,0,1505,1296.58,208.42,Debit Card
+ORD1019,2026-04-23,CUST1036,Pooja Shah,Accessories,Mouse,West,Goa,4,647,0,2588,1647.64,940.36,Net Banking
+ORD1020,2026-02-26,CUST1005,Akash Yadav,Electronics,Laptop,West,Gujarat,1,67326,0,67326,42921.95,24404.05,Credit Card
+ORD1021,2026-03-13,CUST1027,Aditya Deshmukh,Accessories,USB Hub,North,Punjab,3,938,0.15,2391.9,1841.32,550.58,UPI
+ORD1022,2026-01-25,CUST1042,Sneha Kulkarni,Accessories,Keyboard,West,Goa,7,2151,0.1,13551.3,10047.29,3504.01,UPI
+ORD1023,2026-04-14,CUST1028,Neha Joshi,Office Supplies,Printer Paper,East,West Bengal,2,659,0,1318,882.81,435.19,Debit Card
+ORD1024,2026-04-29,CUST1049,Pooja Shah,Furniture,Table Lamp,West,Maharashtra,8,1108,0.15,7534.4,4863.13,2671.27,Credit Card
+ORD1025,2026-04-15,CUST1001,Sahil Khan,Accessories,USB Hub,North,Punjab,4,1485,0.1,5346.0,4568.88,777.12,Debit Card
+ORD1026,2026-04-27,CUST1038,Riya Desai,Office Supplies,Pen Set,North,Delhi,8,316,0,2528,1692.18,835.82,UPI
+ORD1027,2026-03-22,CUST1033,Rohan Mehta,Electronics,Smartphone,North,Delhi,8,21286,0.15,144744.8,124341.67,20403.13,Credit Card
+ORD1028,2026-01-18,CUST1039,Priya Patil,Electronics,Headphones,North,Haryana,4,6731,0.1,24231.6,15778.9,8452.7,Net Banking
+ORD1029,2026-01-21,CUST1017,Sahil Khan,Accessories,Keyboard,South,Karnataka,6,3392,0.05,19334.4,13014.13,6320.27,Credit Card
+ORD1030,2026-06-21,CUST1035,Aditya Deshmukh,Office Supplies,Pen Set,West,Maharashtra,6,334,0,2004,1247.33,756.67,Net Banking
+ORD1031,2026-03-09,CUST1035,Ananya Rao,Furniture,Office Chair,North,Punjab,2,10718,0,21436,15349.83,6086.17,Net Banking
+ORD1032,2026-06-17,CUST1008,Sneha Kulkarni,Electronics,Laptop,North,Punjab,5,83173,0,415865,359358.01,56506.99,Net Banking
+ORD1033,2026-02-09,CUST1032,Rahul Verma,Office Supplies,Notebook,South,Telangana,4,152,0.05,577.6,388.69,188.91,UPI
+ORD1034,2026-01-24,CUST1017,Neha Joshi,Accessories,Keyboard,North,Haryana,1,1833,0,1833,1295.43,537.57,Cash
+ORD1035,2026-05-22,CUST1003,Isha Gupta,Accessories,Keyboard,North,Haryana,1,2997,0,2997,1916.77,1080.23,Net Banking
+ORD1036,2026-05-22,CUST1014,Pooja Shah,Furniture,Office Chair,West,Gujarat,3,12041,0,36123,25291.42,10831.58,UPI
+ORD1037,2026-04-01,CUST1002,Neha Joshi,Accessories,Keyboard,North,Punjab,3,3242,0,9726,8216.5,1509.5,Debit Card
+ORD1038,2026-04-16,CUST1015,Aditya Deshmukh,Furniture,Table Lamp,West,Gujarat,3,1892,0,5676,4083.66,1592.34,Cash
+ORD1039,2026-03-31,CUST1018,Rohan Mehta,Office Supplies,Pen Set,East,Odisha,4,216,0,864,683.95,180.05,Debit Card
+ORD1040,2026-03-31,CUST1038,Rahul Verma,Accessories,Backpack,South,Karnataka,6,3683,0,22098,14363.45,7734.55,UPI
+ORD1041,2026-01-28,CUST1037,Aditya Deshmukh,Accessories,Keyboard,West,Gujarat,6,2115,0.1,11421.0,8881.13,2539.87,Debit Card
+ORD1042,2026-01-12,CUST1021,Sneha Kulkarni,Accessories,Keyboard,South,Telangana,4,706,0.05,2682.8,1964.18,718.62,Debit Card
+ORD1043,2026-05-10,CUST1009,Aditya Deshmukh,Office Supplies,Pen Set,South,Telangana,7,441,0.05,2932.65,2125.07,807.58,Cash
+ORD1044,2026-06-20,CUST1001,Ananya Rao,Accessories,Backpack,East,Bihar,3,3674,0.15,9368.7,7194.86,2173.84,Debit Card
+ORD1045,2026-02-23,CUST1031,Neha Joshi,Accessories,Keyboard,North,Haryana,6,3075,0.1,16605.0,12202.42,4402.58,UPI
+ORD1046,2026-03-14,CUST1002,Priya Patil,Office Supplies,Printer Paper,North,Delhi,4,297,0.05,1128.6,765.65,362.95,Credit Card
+ORD1047,2026-05-02,CUST1026,Pooja Shah,Electronics,Headphones,East,Odisha,7,4930,0.15,29333.5,19669.67,9663.83,Credit Card
+ORD1048,2026-06-17,CUST1036,Pooja Shah,Electronics,Laptop,East,West Bengal,7,68492,0,479444,319180.51,160263.49,UPI
+ORD1049,2026-04-27,CUST1029,Neha Joshi,Furniture,Office Chair,East,Bihar,6,12612,0.1,68104.8,53073.36,15031.44,Cash
+ORD1050,2026-04-26,CUST1016,Rahul Verma,Office Supplies,Notebook,East,Bihar,4,272,0.05,1033.6,846.63,186.97,Cash
+ORD1051,2026-01-20,CUST1010,Pooja Shah,Office Supplies,Pen Set,West,Maharashtra,5,220,0.05,1045.0,734.77,310.23,Cash
+ORD1052,2026-06-27,CUST1030,Meera Nair,Furniture,Office Chair,South,Telangana,4,16573,0,66292,48251.67,18040.33,UPI
+ORD1053,2026-02-22,CUST1020,Sahil Khan,Accessories,Keyboard,West,Gujarat,1,2295,0.15,1950.75,1402.39,548.36,Cash
+ORD1054,2026-05-18,CUST1022,Sahil Khan,Furniture,Table Lamp,West,Gujarat,4,2799,0.05,10636.2,7799.71,2836.49,Credit Card
+ORD1055,2026-04-30,CUST1042,Meera Nair,Furniture,Office Chair,West,Maharashtra,1,15195,0.1,13675.5,10583.36,3092.14,Credit Card
+ORD1056,2026-04-29,CUST1022,Sahil Khan,Furniture,Desk,East,Odisha,5,7823,0.1,35203.5,24822.4,10381.1,Debit Card
+ORD1057,2026-04-18,CUST1015,Rohan Mehta,Office Supplies,Notebook,West,Gujarat,2,293,0.1,527.4,329.65,197.75,UPI
+ORD1058,2026-01-08,CUST1043,Sneha Kulkarni,Furniture,Table Lamp,North,Punjab,1,1616,0.15,1373.6,906.05,467.55,Net Banking
+ORD1059,2026-02-25,CUST1020,Sneha Kulkarni,Accessories,Mouse,West,Maharashtra,5,1832,0.05,8702.0,5774.87,2927.13,Net Banking
+ORD1060,2026-01-07,CUST1038,Pooja Shah,Office Supplies,Pen Set,North,Delhi,7,394,0.1,2482.2,2146.56,335.64,UPI
+ORD1061,2026-06-28,CUST1028,Isha Gupta,Office Supplies,Pen Set,South,Telangana,2,450,0.15,765.0,629.97,135.03,UPI
+ORD1062,2026-05-10,CUST1030,Vikram Singh,Office Supplies,Printer Paper,South,Telangana,7,256,0.1,1612.8,1044.19,568.61,Cash
+ORD1063,2026-02-15,CUST1016,Rohan Mehta,Office Supplies,Notebook,South,Tamil Nadu,8,237,0.1,1706.4,1251.22,455.18,Debit Card
+ORD1064,2026-04-26,CUST1032,Aditya Deshmukh,Furniture,Table Lamp,South,Karnataka,7,2703,0.05,17974.95,11278.6,6696.35,Debit Card
+ORD1065,2026-03-08,CUST1016,Meera Nair,Office Supplies,Printer Paper,North,Delhi,5,393,0.15,1670.25,1039.96,630.29,Cash
+ORD1066,2026-05-23,CUST1015,Sahil Khan,Furniture,Table Lamp,West,Gujarat,8,2750,0.1,19800.0,16358.02,3441.98,Credit Card
+ORD1067,2026-03-20,CUST1045,Omkar Pawar,Office Supplies,Stapler,South,Tamil Nadu,6,362,0.1,1954.8,1718.51,236.29,Debit Card
+ORD1068,2026-03-20,CUST1014,Tanvi Jain,Office Supplies,Notebook,North,Delhi,2,139,0,278,195.17,82.83,Debit Card
+ORD1069,2026-05-31,CUST1001,Riya Desai,Office Supplies,Pen Set,North,Punjab,4,151,0.05,573.8,389.69,184.11,Credit Card
+ORD1070,2026-03-12,CUST1001,Nikhil Shinde,Electronics,Smartphone,East,West Bengal,5,21573,0,107865,84765.29,23099.71,Debit Card
+ORD1071,2026-05-01,CUST1008,Rohan Mehta,Accessories,USB Hub,South,Tamil Nadu,6,1402,0,8412,7327.1,1084.9,Cash
+ORD1072,2026-05-06,CUST1016,Sneha Kulkarni,Electronics,Headphones,South,Karnataka,1,5926,0,5926,3904.0,2022.0,Net Banking
+ORD1073,2026-04-17,CUST1028,Ananya Rao,Furniture,Table Lamp,South,Telangana,7,2940,0.1,18522.0,15858.74,2663.26,Net Banking
+ORD1074,2026-06-08,CUST1016,Neha Joshi,Electronics,Smartphone,West,Maharashtra,4,24503,0,98012,67511.45,30500.55,Net Banking
+ORD1075,2026-01-20,CUST1003,Pooja Shah,Furniture,Desk,East,Odisha,7,7043,0.1,44370.9,35462.84,8908.06,Debit Card
+ORD1076,2026-06-30,CUST1038,Aditya Deshmukh,Office Supplies,Pen Set,South,Telangana,8,459,0,3672,2932.9,739.1,Cash
+ORD1077,2026-01-30,CUST1011,Ananya Rao,Furniture,Table Lamp,West,Maharashtra,3,3452,0.05,9838.2,8214.15,1624.05,Net Banking
+ORD1078,2026-05-26,CUST1033,Riya Desai,Office Supplies,Pen Set,East,Odisha,2,324,0.1,583.2,466.01,117.19,Cash
+ORD1079,2026-04-23,CUST1006,Pooja Shah,Electronics,Headphones,South,Karnataka,1,6099,0.1,5489.1,4451.54,1037.56,Net Banking
+ORD1080,2026-05-31,CUST1012,Nikhil Shinde,Electronics,Laptop,East,Odisha,1,73831,0,73831,54806.98,19024.02,Cash
+ORD1081,2026-06-12,CUST1043,Sneha Kulkarni,Accessories,USB Hub,South,Tamil Nadu,2,2484,0.1,4471.2,3176.65,1294.55,Credit Card
+ORD1082,2026-03-26,CUST1006,Kunal More,Accessories,Keyboard,West,Gujarat,5,2729,0.1,12280.5,10211.57,2068.93,Debit Card
+ORD1083,2026-03-24,CUST1035,Omkar Pawar,Electronics,Monitor,West,Goa,7,24895,0.15,148125.25,123607.72,24517.53,Cash
+ORD1084,2026-01-14,CUST1014,Rahul Verma,Furniture,Bookshelf,East,West Bengal,6,11994,0.15,61169.4,49955.53,11213.87,Net Banking
+ORD1085,2026-02-03,CUST1011,Ananya Rao,Office Supplies,Pen Set,North,Haryana,8,324,0,2592,1626.5,965.5,Net Banking
+ORD1086,2026-01-04,CUST1010,Tanvi Jain,Accessories,Keyboard,West,Goa,4,1081,0,4324,3199.66,1124.34,Debit Card
+ORD1087,2026-05-11,CUST1013,Kavya Iyer,Office Supplies,Notebook,North,Punjab,8,186,0.1,1339.2,915.17,424.03,Net Banking
+ORD1088,2026-02-04,CUST1019,Ananya Rao,Electronics,Headphones,South,Karnataka,7,3463,0.05,23028.95,19871.79,3157.16,Net Banking
+ORD1089,2026-05-29,CUST1036,Riya Desai,Accessories,USB Hub,South,Tamil Nadu,3,2272,0.1,6134.4,4662.33,1472.07,Cash
+ORD1090,2026-04-27,CUST1003,Kunal More,Office Supplies,Printer Paper,North,Punjab,4,695,0,2780,2136.9,643.1,Cash
+ORD1091,2026-06-30,CUST1038,Kunal More,Accessories,Backpack,North,Haryana,3,2481,0.1,6698.7,5833.59,865.11,UPI
+ORD1092,2026-04-23,CUST1010,Rohan Mehta,Electronics,Monitor,East,Bihar,8,17617,0,140936,113853.09,27082.91,Cash
+ORD1093,2026-03-09,CUST1041,Tanvi Jain,Office Supplies,Printer Paper,East,Odisha,7,569,0,3983,3351.53,631.47,Net Banking
+ORD1094,2026-01-10,CUST1049,Sneha Kulkarni,Electronics,Headphones,East,West Bengal,5,3123,0,15615,12713.1,2901.9,Cash
+ORD1095,2026-02-12,CUST1024,Meera Nair,Office Supplies,Pen Set,South,Tamil Nadu,1,114,0.05,108.3,89.56,18.74,Credit Card
+ORD1096,2026-03-04,CUST1044,Pooja Shah,Accessories,Keyboard,East,Bihar,3,3018,0,9054,6025.6,3028.4,Cash
+ORD1097,2026-05-30,CUST1019,Riya Desai,Furniture,Office Chair,West,Gujarat,8,8804,0.05,66910.4,49479.46,17430.94,Credit Card
+ORD1098,2026-01-19,CUST1013,Sahil Khan,Accessories,Mouse,East,Odisha,5,1107,0.1,4981.5,3982.62,998.88,Cash
+ORD1099,2026-01-28,CUST1043,Sahil Khan,Furniture,Table Lamp,South,Karnataka,6,2362,0.15,12046.2,8395.32,3650.88,Debit Card
+ORD1100,2026-01-03,CUST1041,Aditya Deshmukh,Electronics,Smartphone,South,Karnataka,5,50553,0,252765,196609.94,56155.06,Net Banking
+ORD1101,2026-03-06,CUST1038,Isha Gupta,Furniture,Office Chair,East,West Bengal,2,15293,0,30586,21420.07,9165.93,Credit Card
+ORD1102,2026-01-24,CUST1033,Rahul Verma,Office Supplies,Pen Set,South,Telangana,7,267,0,1869,1256.35,612.65,Credit Card
+ORD1103,2026-03-07,CUST1010,Pooja Shah,Accessories,USB Hub,East,West Bengal,5,2481,0.05,11784.75,9770.74,2014.01,Cash
+ORD1104,2026-05-23,CUST1024,Rahul Verma,Office Supplies,Stapler,West,Gujarat,7,166,0,1162,800.34,361.66,Net Banking
+ORD1105,2026-04-08,CUST1015,Rohan Mehta,Office Supplies,Stapler,South,Telangana,4,175,0.1,630.0,394.7,235.3,Cash
+ORD1106,2026-06-29,CUST1032,Sneha Kulkarni,Office Supplies,Pen Set,West,Gujarat,7,432,0,3024,1984.78,1039.22,UPI
+ORD1107,2026-03-02,CUST1048,Vikram Singh,Furniture,Office Chair,East,Bihar,8,11367,0.05,86389.2,68621.22,17767.98,Cash
+ORD1108,2026-06-17,CUST1045,Isha Gupta,Electronics,Monitor,South,Karnataka,8,22659,0.15,154081.2,111879.92,42201.28,Credit Card
+ORD1109,2026-04-24,CUST1042,Isha Gupta,Accessories,Mouse,South,Telangana,6,883,0,5298,4635.97,662.03,UPI
+ORD1110,2026-04-12,CUST1041,Kavya Iyer,Office Supplies,Notebook,North,Haryana,2,128,0.1,230.4,148.34,82.06,UPI
+ORD1111,2026-01-13,CUST1014,Pooja Shah,Office Supplies,Printer Paper,North,Haryana,3,374,0.15,953.7,642.18,311.52,Debit Card
+ORD1112,2026-02-07,CUST1043,Aarav Sharma,Electronics,Laptop,North,Delhi,3,74085,0,222255,169015.15,53239.85,Credit Card
+ORD1113,2026-01-04,CUST1048,Meera Nair,Office Supplies,Stapler,West,Maharashtra,6,241,0,1446,962.03,483.97,Net Banking
+ORD1114,2026-01-30,CUST1033,Pooja Shah,Electronics,Headphones,West,Gujarat,8,5101,0.05,38767.6,29209.13,9558.47,Net Banking
+ORD1115,2026-01-12,CUST1044,Sneha Kulkarni,Office Supplies,Pen Set,East,Odisha,1,334,0,334,293.8,40.2,Cash
+ORD1116,2026-04-24,CUST1040,Nikhil Shinde,Electronics,Headphones,North,Punjab,6,1861,0.15,9491.1,6250.52,3240.58,Net Banking
+ORD1117,2026-03-25,CUST1045,Sneha Kulkarni,Accessories,Backpack,East,West Bengal,5,3346,0.1,15057.0,11314.48,3742.52,Net Banking
+ORD1118,2026-02-25,CUST1027,Sneha Kulkarni,Accessories,Keyboard,East,Odisha,4,2549,0.1,9176.4,6498.01,2678.39,Debit Card
+ORD1119,2026-04-20,CUST1006,Rohan Mehta,Office Supplies,Printer Paper,East,West Bengal,5,590,0.05,2802.5,2432.39,370.11,UPI
+ORD1120,2026-04-21,CUST1008,Meera Nair,Electronics,Monitor,South,Telangana,6,21199,0,127194,97259.71,29934.29,Debit Card
+ORD1121,2026-06-20,CUST1033,Aditya Deshmukh,Accessories,Keyboard,West,Goa,5,910,0.15,3867.5,2712.03,1155.47,Credit Card
+ORD1122,2026-06-18,CUST1049,Rahul Verma,Accessories,USB Hub,South,Karnataka,2,959,0.05,1822.1,1530.19,291.91,Net Banking
+ORD1123,2026-02-27,CUST1012,Rahul Verma,Accessories,Keyboard,South,Karnataka,1,2997,0.15,2547.45,2194.79,352.66,Debit Card
+ORD1124,2026-03-28,CUST1010,Aarav Sharma,Office Supplies,Stapler,East,West Bengal,3,123,0,369,283.11,85.89,UPI
+ORD1125,2026-05-16,CUST1047,Kunal More,Furniture,Bookshelf,South,Tamil Nadu,7,9663,0.1,60876.9,43139.38,17737.52,Net Banking
+ORD1126,2026-06-02,CUST1006,Rahul Verma,Electronics,Headphones,West,Goa,3,1630,0,4890,3990.99,899.01,Cash
+ORD1127,2026-06-19,CUST1028,Sneha Kulkarni,Accessories,Keyboard,West,Gujarat,8,2689,0.1,19360.8,13378.77,5982.03,Debit Card
+ORD1128,2026-06-23,CUST1014,Ananya Rao,Accessories,USB Hub,West,Maharashtra,5,1579,0,7895,5347.56,2547.44,Credit Card
+ORD1129,2026-02-05,CUST1009,Sahil Khan,Office Supplies,Notebook,East,West Bengal,6,154,0,924,574.74,349.26,Net Banking
+ORD1130,2026-06-30,CUST1002,Omkar Pawar,Furniture,Table Lamp,West,Gujarat,6,2849,0,17094,12363.04,4730.96,UPI
+ORD1131,2026-03-22,CUST1021,Neha Joshi,Accessories,Keyboard,East,West Bengal,7,3048,0.1,19202.4,13350.93,5851.47,Net Banking
+ORD1132,2026-04-28,CUST1006,Sahil Khan,Office Supplies,Stapler,East,Bihar,7,165,0,1155,789.17,365.83,Debit Card
+ORD1133,2026-03-28,CUST1033,Aditya Deshmukh,Furniture,Table Lamp,West,Goa,3,2164,0,6492,4886.69,1605.31,Debit Card
+ORD1134,2026-03-31,CUST1010,Rohan Mehta,Furniture,Office Chair,North,Haryana,2,8871,0,17742,12180.8,5561.2,Credit Card
+ORD1135,2026-06-10,CUST1021,Vikram Singh,Accessories,USB Hub,South,Telangana,8,1450,0.15,9860.0,7761.57,2098.43,Cash
+ORD1136,2026-01-18,CUST1005,Ananya Rao,Accessories,USB Hub,South,Telangana,5,1405,0.05,6673.75,5163.94,1509.81,Cash
+ORD1137,2026-04-26,CUST1039,Akash Yadav,Electronics,Smartphone,West,Goa,6,21728,0.05,123849.6,79257.56,44592.04,Cash
+ORD1138,2026-04-29,CUST1029,Sneha Kulkarni,Electronics,Smartphone,North,Delhi,4,47473,0.05,180397.4,140223.17,40174.23,Debit Card
+ORD1139,2026-01-22,CUST1024,Ananya Rao,Furniture,Desk,North,Punjab,4,7641,0.1,27507.6,24142.22,3365.38,Cash
+ORD1140,2026-04-15,CUST1044,Sahil Khan,Office Supplies,Printer Paper,West,Goa,1,597,0.05,567.15,361.35,205.8,Debit Card
+ORD1141,2026-03-06,CUST1042,Sahil Khan,Furniture,Office Chair,South,Tamil Nadu,2,10461,0.15,17783.7,14094.28,3689.42,Credit Card
+ORD1142,2026-06-02,CUST1043,Meera Nair,Electronics,Headphones,West,Goa,7,3736,0.05,24844.4,20656.33,4188.07,Net Banking
+ORD1143,2026-04-03,CUST1013,Pooja Shah,Electronics,Laptop,South,Tamil Nadu,5,76881,0,384405,333396.0,51009.0,Credit Card
+ORD1144,2026-02-09,CUST1022,Kavya Iyer,Electronics,Headphones,West,Goa,2,3623,0.15,6159.1,5053.09,1106.01,Credit Card
+ORD1145,2026-06-02,CUST1029,Priya Patil,Accessories,Backpack,North,Haryana,3,1531,0,4593,3840.44,752.56,Cash
+ORD1146,2026-04-04,CUST1031,Aditya Deshmukh,Furniture,Table Lamp,North,Punjab,5,2619,0.1,11785.5,8024.05,3761.45,Debit Card
+ORD1147,2026-06-23,CUST1013,Kavya Iyer,Accessories,Mouse,East,West Bengal,5,1345,0.1,6052.5,4543.95,1508.55,Credit Card
+ORD1148,2026-03-06,CUST1006,Neha Joshi,Electronics,Smartphone,West,Gujarat,6,49495,0.15,252424.5,217821.22,34603.28,Debit Card
+ORD1149,2026-04-26,CUST1027,Priya Patil,Furniture,Office Chair,South,Karnataka,2,12167,0,24334,20254.23,4079.77,Cash
+ORD1150,2026-05-09,CUST1007,Kunal More,Office Supplies,Stapler,West,Gujarat,7,240,0,1680,1205.36,474.64,Credit Card
+ORD1151,2026-02-05,CUST1040,Aarav Sharma,Electronics,Smartphone,East,Odisha,8,36800,0,294400,240612.74,53787.26,UPI
+ORD1152,2026-01-05,CUST1050,Ananya Rao,Office Supplies,Notebook,East,West Bengal,3,135,0.15,344.25,297.59,46.66,Credit Card
+ORD1153,2026-03-19,CUST1008,Tanvi Jain,Electronics,Monitor,East,West Bengal,4,9782,0.1,35215.2,27683.64,7531.56,Net Banking
+ORD1154,2026-05-18,CUST1023,Pooja Shah,Electronics,Laptop,West,Goa,4,81887,0,327548,227885.2,99662.8,Net Banking
+ORD1155,2026-04-17,CUST1035,Akash Yadav,Furniture,Desk,West,Goa,2,17885,0.15,30404.5,26555.6,3848.9,Net Banking
+ORD1156,2026-05-22,CUST1048,Aarav Sharma,Electronics,Laptop,South,Tamil Nadu,8,77794,0,622352,488717.1,133634.9,Debit Card
+ORD1157,2026-01-18,CUST1003,Isha Gupta,Office Supplies,Stapler,South,Karnataka,2,243,0.15,413.1,335.09,78.01,Net Banking
+ORD1158,2026-03-28,CUST1046,Omkar Pawar,Furniture,Desk,North,Delhi,8,20605,0.1,148356.0,116348.39,32007.61,UPI
+ORD1159,2026-03-17,CUST1026,Riya Desai,Furniture,Bookshelf,South,Telangana,4,4217,0,16868,11842.26,5025.74,Cash
+ORD1160,2026-03-06,CUST1022,Rahul Verma,Electronics,Smartphone,West,Goa,5,30524,0.05,144989.0,122393.34,22595.66,UPI
+ORD1161,2026-04-05,CUST1045,Tanvi Jain,Accessories,Keyboard,North,Punjab,8,2338,0.1,16833.6,11920.71,4912.89,Debit Card
+ORD1162,2026-05-13,CUST1019,Kunal More,Office Supplies,Notebook,North,Haryana,2,285,0.1,513.0,328.59,184.41,UPI
+ORD1163,2026-01-21,CUST1045,Omkar Pawar,Office Supplies,Printer Paper,East,West Bengal,5,588,0.05,2793.0,2055.48,737.52,Debit Card
+ORD1164,2026-04-25,CUST1043,Sahil Khan,Electronics,Smartphone,West,Maharashtra,7,41105,0.05,273348.25,214923.35,58424.9,Debit Card
+ORD1165,2026-05-12,CUST1009,Rohan Mehta,Furniture,Desk,East,West Bengal,3,7510,0.15,19150.5,15249.6,3900.9,Credit Card
+ORD1166,2026-06-15,CUST1029,Isha Gupta,Office Supplies,Stapler,North,Haryana,7,305,0.15,1814.75,1140.43,674.32,Debit Card
+ORD1167,2026-04-24,CUST1018,Pooja Shah,Electronics,Headphones,South,Telangana,3,5901,0.15,15047.55,10765.12,4282.43,UPI
+ORD1168,2026-01-07,CUST1029,Aditya Deshmukh,Furniture,Desk,South,Telangana,7,15176,0.15,90297.2,58748.97,31548.23,Net Banking
+ORD1169,2026-03-15,CUST1046,Omkar Pawar,Accessories,USB Hub,East,West Bengal,2,909,0,1818,1530.27,287.73,UPI
+ORD1170,2026-06-24,CUST1011,Neha Joshi,Office Supplies,Printer Paper,South,Tamil Nadu,6,591,0,3546,2705.6,840.4,Debit Card
+ORD1171,2026-05-11,CUST1024,Riya Desai,Furniture,Table Lamp,East,West Bengal,4,1297,0,5188,3535.89,1652.11,Net Banking
+ORD1172,2026-04-05,CUST1026,Tanvi Jain,Accessories,Mouse,West,Gujarat,3,2045,0.15,5214.75,4432.04,782.71,Net Banking
+ORD1173,2026-04-16,CUST1030,Akash Yadav,Accessories,Keyboard,West,Gujarat,2,3054,0,6108,5331.18,776.82,Debit Card
+ORD1174,2026-02-02,CUST1034,Vikram Singh,Furniture,Desk,West,Maharashtra,3,19579,0.1,52863.3,39686.84,13176.46,Debit Card
+ORD1175,2026-02-12,CUST1017,Aditya Deshmukh,Furniture,Desk,South,Karnataka,4,12286,0.05,46686.8,40446.9,6239.9,Net Banking
+ORD1176,2026-03-12,CUST1038,Vikram Singh,Furniture,Office Chair,North,Haryana,5,15240,0.15,64770.0,49141.28,15628.72,Credit Card
+ORD1177,2026-06-18,CUST1014,Nikhil Shinde,Office Supplies,Printer Paper,South,Telangana,1,681,0,681,436.6,244.4,Cash
+ORD1178,2026-06-08,CUST1030,Rohan Mehta,Electronics,Laptop,East,Odisha,5,81319,0.05,386265.25,287986.1,98279.15,UPI
+ORD1179,2026-02-10,CUST1046,Kunal More,Accessories,Mouse,North,Punjab,8,1251,0.1,9007.2,6062.26,2944.94,Debit Card
+ORD1180,2026-04-13,CUST1030,Sneha Kulkarni,Furniture,Office Chair,South,Karnataka,6,17462,0.15,89056.2,68219.66,20836.54,Debit Card
+ORD1181,2026-04-26,CUST1027,Pooja Shah,Furniture,Table Lamp,East,Bihar,2,1377,0,2754,1915.28,838.72,Credit Card
+ORD1182,2026-03-25,CUST1020,Tanvi Jain,Office Supplies,Printer Paper,East,Odisha,3,347,0.1,936.9,823.49,113.41,UPI
+ORD1183,2026-01-24,CUST1004,Ananya Rao,Accessories,Backpack,South,Karnataka,8,2970,0,23760,16060.28,7699.72,Cash
+ORD1184,2026-06-02,CUST1024,Sahil Khan,Accessories,USB Hub,South,Telangana,1,1085,0,1085,794.26,290.74,Debit Card
+ORD1185,2026-01-12,CUST1033,Omkar Pawar,Accessories,Backpack,West,Gujarat,4,1109,0.05,4214.2,3218.97,995.23,Net Banking
+ORD1186,2026-03-13,CUST1024,Vikram Singh,Electronics,Monitor,South,Telangana,2,11108,0.1,19994.4,14336.62,5657.78,Credit Card
+ORD1187,2026-06-04,CUST1034,Omkar Pawar,Accessories,Backpack,South,Tamil Nadu,1,2948,0,2948,1857.59,1090.41,Credit Card
+ORD1188,2026-06-05,CUST1022,Akash Yadav,Furniture,Office Chair,South,Telangana,6,10373,0,62238,44946.3,17291.7,Net Banking
+ORD1189,2026-05-17,CUST1044,Sneha Kulkarni,Accessories,USB Hub,South,Tamil Nadu,5,1951,0.1,8779.5,7305.38,1474.12,Cash
+ORD1190,2026-05-30,CUST1004,Nikhil Shinde,Office Supplies,Pen Set,North,Haryana,1,471,0.15,400.35,297.62,102.73,Cash
+ORD1191,2026-02-13,CUST1002,Omkar Pawar,Accessories,Backpack,West,Maharashtra,4,1505,0,6020,4628.59,1391.41,Debit Card
+ORD1192,2026-04-18,CUST1047,Priya Patil,Furniture,Office Chair,East,Bihar,4,11765,0.1,42354.0,31785.54,10568.46,Credit Card
+ORD1193,2026-05-13,CUST1035,Kunal More,Furniture,Bookshelf,North,Punjab,8,8825,0.15,60010.0,43085.65,16924.35,Net Banking
+ORD1194,2026-04-01,CUST1020,Pooja Shah,Office Supplies,Notebook,South,Telangana,8,236,0,1888,1640.5,247.5,Debit Card
+ORD1195,2026-03-15,CUST1008,Nikhil Shinde,Furniture,Bookshelf,South,Tamil Nadu,6,11511,0.1,62159.4,44175.99,17983.41,Net Banking
+ORD1196,2026-04-08,CUST1006,Isha Gupta,Accessories,Backpack,South,Telangana,6,4252,0,25512,17744.05,7767.95,Cash
+ORD1197,2026-06-17,CUST1045,Rahul Verma,Office Supplies,Notebook,South,Telangana,8,271,0,2168,1458.06,709.94,Credit Card
+ORD1198,2026-01-28,CUST1007,Meera Nair,Furniture,Table Lamp,North,Delhi,1,1793,0.15,1524.05,1034.33,489.72,Debit Card
+ORD1199,2026-05-01,CUST1042,Tanvi Jain,Electronics,Monitor,North,Punjab,3,20160,0,60480,52664.46,7815.54,Cash
+ORD1200,2026-06-16,CUST1037,Pooja Shah,Furniture,Bookshelf,West,Goa,6,8206,0.05,46774.2,36854.96,9919.24,Net Banking
+ORD1201,2026-01-10,CUST1012,Ananya Rao,Furniture,Desk,East,Odisha,3,13846,0,41538,36522.9,5015.1,UPI
+ORD1202,2026-01-03,CUST1033,Omkar Pawar,Office Supplies,Pen Set,East,West Bengal,2,390,0.05,741.0,514.24,226.76,Debit Card
+ORD1203,2026-02-19,CUST1048,Kunal More,Electronics,Monitor,North,Delhi,3,14417,0.1,38925.9,30695.18,8230.72,Debit Card
+ORD1204,2026-05-26,CUST1043,Sneha Kulkarni,Furniture,Bookshelf,West,Gujarat,7,6375,0.1,40162.5,30281.44,9881.06,Credit Card
+ORD1205,2026-02-05,CUST1049,Rahul Verma,Accessories,USB Hub,North,Punjab,4,1162,0,4648,3196.91,1451.09,Debit Card
+ORD1206,2026-03-19,CUST1020,Neha Joshi,Electronics,Laptop,West,Gujarat,6,73570,0,441420,280810.36,160609.64,Cash
+ORD1207,2026-06-25,CUST1009,Tanvi Jain,Office Supplies,Pen Set,North,Delhi,2,453,0.05,860.7,615.88,244.82,Credit Card
+ORD1208,2026-04-27,CUST1044,Kavya Iyer,Office Supplies,Stapler,North,Delhi,8,332,0.15,2257.6,1870.46,387.14,UPI
+ORD1209,2026-05-15,CUST1036,Akash Yadav,Accessories,Mouse,West,Maharashtra,6,1481,0,8886,7628.49,1257.51,Credit Card
+ORD1210,2026-05-27,CUST1038,Tanvi Jain,Furniture,Office Chair,North,Haryana,6,7695,0.15,39244.5,28839.94,10404.56,UPI
+ORD1211,2026-05-11,CUST1037,Priya Patil,Accessories,Mouse,East,Odisha,1,2056,0.1,1850.4,1210.73,639.67,Net Banking
+ORD1212,2026-04-29,CUST1014,Nikhil Shinde,Office Supplies,Pen Set,West,Goa,1,470,0.1,423.0,290.25,132.75,UPI
+ORD1213,2026-01-12,CUST1003,Ananya Rao,Accessories,Keyboard,West,Gujarat,2,2111,0.15,3588.7,3152.57,436.13,Cash
+ORD1214,2026-02-16,CUST1025,Sahil Khan,Furniture,Office Chair,East,Odisha,7,17547,0.05,116687.55,102468.32,14219.23,UPI
+ORD1215,2026-06-24,CUST1009,Pooja Shah,Furniture,Office Chair,East,Bihar,6,15707,0,94242,62803.17,31438.83,UPI
+ORD1216,2026-01-06,CUST1030,Isha Gupta,Office Supplies,Pen Set,North,Delhi,7,337,0.15,2005.15,1440.92,564.23,Credit Card
+ORD1217,2026-03-12,CUST1014,Rohan Mehta,Furniture,Bookshelf,West,Maharashtra,1,5348,0.1,4813.2,3753.72,1059.48,UPI
+ORD1218,2026-06-02,CUST1015,Riya Desai,Electronics,Smartphone,East,Odisha,1,47257,0,47257,38398.23,8858.77,Credit Card
+ORD1219,2026-01-15,CUST1039,Kunal More,Furniture,Office Chair,South,Telangana,5,13255,0,66275,55147.72,11127.28,Credit Card
+ORD1220,2026-03-19,CUST1038,Neha Joshi,Furniture,Office Chair,West,Goa,4,15816,0.1,56937.6,39749.86,17187.74,Cash
+ORD1221,2026-05-23,CUST1027,Meera Nair,Accessories,USB Hub,South,Telangana,6,596,0.1,3218.4,2652.96,565.44,Credit Card
+ORD1222,2026-03-18,CUST1010,Omkar Pawar,Accessories,Backpack,South,Telangana,8,1653,0,13224,11119.12,2104.88,UPI
+ORD1223,2026-05-24,CUST1042,Rohan Mehta,Accessories,Keyboard,North,Punjab,3,2406,0.1,6496.2,4437.83,2058.37,Cash
+ORD1224,2026-04-05,CUST1013,Nikhil Shinde,Electronics,Headphones,West,Maharashtra,4,5587,0,22348,15415.65,6932.35,Net Banking
+ORD1225,2026-02-25,CUST1013,Sneha Kulkarni,Accessories,USB Hub,West,Maharashtra,6,927,0.05,5283.9,4590.79,693.11,Cash
+ORD1226,2026-03-04,CUST1030,Riya Desai,Furniture,Bookshelf,South,Tamil Nadu,4,9998,0.15,33993.2,23918.29,10074.91,Debit Card
+ORD1227,2026-03-20,CUST1014,Isha Gupta,Office Supplies,Notebook,East,Odisha,8,172,0.1,1238.4,799.56,438.84,Debit Card
+ORD1228,2026-04-16,CUST1010,Aditya Deshmukh,Electronics,Smartphone,East,Odisha,4,54865,0,219460,136990.7,82469.3,Debit Card
+ORD1229,2026-02-28,CUST1049,Tanvi Jain,Accessories,Backpack,South,Tamil Nadu,4,3233,0.1,11638.8,8882.35,2756.45,Cash
+ORD1230,2026-04-28,CUST1035,Priya Patil,Furniture,Desk,East,West Bengal,6,19005,0,114030,74848.06,39181.94,Net Banking
+ORD1231,2026-01-09,CUST1046,Vikram Singh,Electronics,Headphones,North,Delhi,1,7901,0,7901,5745.78,2155.22,UPI
+ORD1232,2026-02-25,CUST1032,Aarav Sharma,Accessories,Mouse,East,Bihar,1,1164,0.15,989.4,777.48,211.92,UPI
+ORD1233,2026-05-17,CUST1033,Meera Nair,Accessories,Keyboard,South,Karnataka,1,748,0.15,635.8,513.58,122.22,Credit Card
+ORD1234,2026-01-28,CUST1018,Sahil Khan,Electronics,Monitor,South,Tamil Nadu,3,17591,0,52773,35352.76,17420.24,UPI
+ORD1235,2026-04-06,CUST1042,Priya Patil,Accessories,Backpack,West,Goa,4,2780,0,11120,7761.69,3358.31,UPI
+ORD1236,2026-04-14,CUST1032,Meera Nair,Accessories,Backpack,North,Delhi,8,2444,0,19552,15359.16,4192.84,Debit Card
+ORD1237,2026-05-25,CUST1003,Rohan Mehta,Electronics,Monitor,East,Odisha,1,23660,0,23660,15969.75,7690.25,Debit Card
+ORD1238,2026-05-20,CUST1026,Rohan Mehta,Electronics,Smartphone,North,Haryana,6,29754,0,178524,155312.66,23211.34,Debit Card
+ORD1239,2026-02-11,CUST1047,Rohan Mehta,Furniture,Table Lamp,North,Haryana,7,3121,0.15,18569.95,13115.02,5454.93,Net Banking
+ORD1240,2026-03-30,CUST1050,Kavya Iyer,Electronics,Smartphone,South,Telangana,7,24401,0,170807,143145.73,27661.27,Net Banking
+ORD1241,2026-04-12,CUST1025,Meera Nair,Office Supplies,Printer Paper,South,Telangana,5,265,0.1,1192.5,891.46,301.04,Credit Card
+ORD1242,2026-06-24,CUST1010,Sahil Khan,Accessories,Backpack,West,Gujarat,5,1251,0,6255,5037.83,1217.17,Credit Card
+ORD1243,2026-04-10,CUST1024,Rahul Verma,Office Supplies,Printer Paper,South,Tamil Nadu,2,434,0,868,539.33,328.67,UPI
+ORD1244,2026-02-03,CUST1002,Rohan Mehta,Electronics,Headphones,East,West Bengal,7,2735,0.1,17230.5,13178.16,4052.34,Debit Card
+ORD1245,2026-05-22,CUST1050,Rohan Mehta,Electronics,Headphones,East,Odisha,6,6090,0.1,32886.0,20494.84,12391.16,Net Banking
+ORD1246,2026-03-04,CUST1032,Vikram Singh,Furniture,Desk,South,Tamil Nadu,7,18228,0,127596,83715.53,43880.47,UPI
+ORD1247,2026-02-12,CUST1017,Pooja Shah,Accessories,Keyboard,West,Gujarat,7,1830,0.05,12169.5,9077.23,3092.27,Cash
+ORD1248,2026-06-02,CUST1040,Sahil Khan,Furniture,Bookshelf,East,Odisha,2,11001,0,22002,15384.04,6617.96,Debit Card
+ORD1249,2026-04-23,CUST1021,Neha Joshi,Office Supplies,Printer Paper,North,Punjab,3,470,0.05,1339.5,942.17,397.33,Cash
+ORD1250,2026-03-23,CUST1018,Sahil Khan,Office Supplies,Pen Set,South,Tamil Nadu,8,476,0.15,3236.8,2664.9,571.9,Debit Card
+ORD1251,2026-01-30,CUST1019,Rohan Mehta,Furniture,Bookshelf,North,Punjab,1,6447,0.1,5802.3,5020.0,782.3,Cash
+ORD1252,2026-06-22,CUST1028,Sahil Khan,Accessories,USB Hub,North,Haryana,5,785,0,3925,2691.36,1233.64,UPI
+ORD1253,2026-04-25,CUST1003,Isha Gupta,Accessories,USB Hub,East,Bihar,7,1692,0.15,10067.4,7567.86,2499.54,Net Banking
+ORD1254,2026-06-02,CUST1042,Sahil Khan,Electronics,Headphones,West,Goa,4,2095,0.05,7961.0,5280.12,2680.88,Debit Card
+ORD1255,2026-04-21,CUST1024,Sahil Khan,Electronics,Monitor,North,Punjab,2,9172,0.05,17426.8,11810.5,5616.3,Cash
+ORD1256,2026-06-23,CUST1008,Vikram Singh,Furniture,Office Chair,East,West Bengal,1,10651,0.1,9585.9,6203.83,3382.07,Debit Card
+ORD1257,2026-03-21,CUST1029,Omkar Pawar,Office Supplies,Printer Paper,East,West Bengal,4,483,0.15,1642.2,1224.36,417.84,Debit Card
+ORD1258,2026-01-18,CUST1011,Pooja Shah,Office Supplies,Pen Set,West,Goa,2,122,0,244,205.15,38.85,Net Banking
+ORD1259,2026-02-14,CUST1012,Neha Joshi,Furniture,Desk,East,Bihar,7,12422,0.1,78258.6,53237.95,25020.65,Cash
+ORD1260,2026-04-12,CUST1014,Aditya Deshmukh,Electronics,Laptop,West,Goa,8,71465,0.15,485962.0,355570.49,130391.51,Debit Card
+ORD1261,2026-06-30,CUST1030,Sneha Kulkarni,Electronics,Headphones,South,Karnataka,2,5929,0.15,10079.3,6739.12,3340.18,Debit Card
+ORD1262,2026-06-21,CUST1008,Isha Gupta,Accessories,USB Hub,East,Bihar,6,1580,0.15,8058.0,5810.19,2247.81,Debit Card
+ORD1263,2026-04-28,CUST1008,Pooja Shah,Furniture,Desk,North,Punjab,5,20332,0.15,86411.0,66834.05,19576.95,Debit Card
+ORD1264,2026-01-30,CUST1025,Meera Nair,Furniture,Desk,North,Haryana,3,13116,0.15,33445.8,24114.44,9331.36,Credit Card
+ORD1265,2026-05-05,CUST1029,Kavya Iyer,Furniture,Desk,North,Punjab,3,16091,0.1,43445.7,30198.98,13246.72,UPI
+ORD1266,2026-04-02,CUST1044,Tanvi Jain,Electronics,Laptop,East,Odisha,3,80879,0,242637,201863.34,40773.66,Cash
+ORD1267,2026-04-24,CUST1003,Rahul Verma,Accessories,USB Hub,North,Punjab,2,842,0.15,1431.4,898.95,532.45,Credit Card
+ORD1268,2026-05-18,CUST1033,Sneha Kulkarni,Office Supplies,Pen Set,East,Bihar,8,186,0.15,1264.8,1028.35,236.45,Net Banking
+ORD1269,2026-01-30,CUST1029,Riya Desai,Office Supplies,Notebook,West,Goa,6,278,0.15,1417.8,1182.27,235.53,Credit Card
+ORD1270,2026-04-19,CUST1017,Isha Gupta,Electronics,Monitor,West,Gujarat,4,21058,0.05,80020.4,67813.33,12207.07,UPI
+ORD1271,2026-04-23,CUST1040,Meera Nair,Electronics,Monitor,South,Telangana,4,21707,0,86828,72135.2,14692.8,Credit Card
+ORD1272,2026-06-07,CUST1018,Kavya Iyer,Furniture,Office Chair,South,Telangana,4,17858,0,71432,59246.74,12185.26,Net Banking
+ORD1273,2026-02-13,CUST1049,Meera Nair,Office Supplies,Printer Paper,West,Maharashtra,5,610,0.05,2897.5,2227.92,669.58,UPI
+ORD1274,2026-03-12,CUST1049,Sahil Khan,Furniture,Office Chair,South,Karnataka,3,16492,0,49476,32556.36,16919.64,Cash
+ORD1275,2026-02-06,CUST1033,Rahul Verma,Office Supplies,Notebook,West,Gujarat,7,240,0.1,1512.0,1115.13,396.87,Debit Card
+ORD1276,2026-04-27,CUST1043,Isha Gupta,Accessories,USB Hub,East,Bihar,1,1170,0,1170,947.75,222.25,UPI
+ORD1277,2026-05-17,CUST1022,Riya Desai,Accessories,Backpack,South,Tamil Nadu,7,1792,0,12544,9390.76,3153.24,Net Banking
+ORD1278,2026-02-03,CUST1008,Neha Joshi,Accessories,USB Hub,East,West Bengal,6,2114,0,12684,8015.59,4668.41,Cash
+ORD1279,2026-04-27,CUST1018,Rohan Mehta,Electronics,Laptop,South,Karnataka,4,79018,0,316072,268458.41,47613.59,Debit Card
+ORD1280,2026-03-06,CUST1045,Pooja Shah,Electronics,Headphones,South,Telangana,3,4246,0,12738,9210.2,3527.8,Cash
+ORD1281,2026-06-17,CUST1038,Pooja Shah,Electronics,Headphones,West,Maharashtra,2,6964,0,13928,9408.22,4519.78,Net Banking
+ORD1282,2026-06-24,CUST1009,Tanvi Jain,Accessories,Mouse,East,Bihar,1,419,0.05,398.05,331.36,66.69,UPI
+ORD1283,2026-02-28,CUST1025,Vikram Singh,Accessories,Backpack,South,Karnataka,2,1265,0,2530,1774.72,755.28,Credit Card
+ORD1284,2026-01-18,CUST1048,Vikram Singh,Electronics,Laptop,North,Haryana,3,84998,0.1,229494.6,163241.53,66253.07,Cash
+ORD1285,2026-06-07,CUST1038,Sahil Khan,Accessories,Mouse,North,Delhi,4,2161,0,8644,7374.32,1269.68,Debit Card
+ORD1286,2026-04-20,CUST1036,Kavya Iyer,Office Supplies,Printer Paper,West,Maharashtra,3,655,0,1965,1359.8,605.2,Net Banking
+ORD1287,2026-06-05,CUST1026,Ananya Rao,Office Supplies,Pen Set,North,Haryana,1,498,0.05,473.1,318.59,154.51,UPI
+ORD1288,2026-03-03,CUST1001,Isha Gupta,Accessories,USB Hub,West,Goa,2,1290,0,2580,1934.72,645.28,Debit Card
+ORD1289,2026-02-03,CUST1050,Rohan Mehta,Accessories,Backpack,North,Punjab,7,4425,0.05,29426.25,22424.35,7001.9,UPI
+ORD1290,2026-05-31,CUST1033,Ananya Rao,Electronics,Headphones,West,Gujarat,5,1312,0,6560,4135.13,2424.87,Net Banking
+ORD1291,2026-04-17,CUST1006,Ananya Rao,Accessories,Keyboard,North,Punjab,2,2347,0.15,3989.9,3031.49,958.41,UPI
+ORD1292,2026-05-11,CUST1045,Meera Nair,Furniture,Bookshelf,West,Gujarat,6,6045,0.1,32643.0,25215.86,7427.14,Credit Card
+ORD1293,2026-01-15,CUST1043,Neha Joshi,Furniture,Table Lamp,West,Gujarat,7,1153,0,8071,5955.4,2115.6,UPI
+ORD1294,2026-01-04,CUST1034,Rahul Verma,Furniture,Office Chair,South,Telangana,1,16493,0,16493,12354.37,4138.63,Credit Card
+ORD1295,2026-04-06,CUST1028,Rahul Verma,Furniture,Office Chair,West,Gujarat,5,17284,0,86420,70913.82,15506.18,Net Banking
+ORD1296,2026-01-17,CUST1032,Nikhil Shinde,Office Supplies,Notebook,South,Karnataka,2,262,0.1,471.6,348.21,123.39,Credit Card
+ORD1297,2026-04-05,CUST1048,Akash Yadav,Furniture,Desk,West,Maharashtra,2,11179,0.15,19004.3,15113.57,3890.73,UPI
+ORD1298,2026-01-12,CUST1003,Riya Desai,Electronics,Laptop,North,Delhi,1,73013,0.1,65711.7,46959.81,18751.89,Cash
+ORD1299,2026-02-27,CUST1024,Sneha Kulkarni,Office Supplies,Printer Paper,West,Goa,7,377,0.05,2507.05,1731.19,775.86,Net Banking
+ORD1300,2026-06-22,CUST1030,Ananya Rao,Electronics,Smartphone,East,West Bengal,4,29753,0.15,101160.2,88532.13,12628.07,Debit Card
+ORD1301,2026-03-25,CUST1020,Kavya Iyer,Electronics,Headphones,South,Telangana,8,5730,0,45840,32817.73,13022.27,Credit Card
+ORD1302,2026-04-29,CUST1001,Meera Nair,Office Supplies,Stapler,North,Delhi,8,422,0,3376,2736.05,639.95,UPI
+ORD1303,2026-03-01,CUST1047,Ananya Rao,Office Supplies,Stapler,East,Bihar,1,445,0.05,422.75,262.27,160.48,UPI
+ORD1304,2026-02-22,CUST1018,Rohan Mehta,Furniture,Table Lamp,North,Haryana,8,2519,0,20152,17589.98,2562.02,UPI
+ORD1305,2026-03-01,CUST1026,Rohan Mehta,Accessories,Keyboard,North,Haryana,8,2225,0,17800,13723.81,4076.19,Net Banking
+ORD1306,2026-05-26,CUST1045,Kunal More,Electronics,Smartphone,South,Tamil Nadu,3,46507,0,139521,97083.7,42437.3,Debit Card
+ORD1307,2026-04-26,CUST1007,Neha Joshi,Office Supplies,Notebook,West,Maharashtra,2,139,0,278,182.2,95.8,Cash
+ORD1308,2026-04-30,CUST1020,Omkar Pawar,Office Supplies,Printer Paper,North,Punjab,2,458,0.15,778.6,555.26,223.34,Debit Card
+ORD1309,2026-01-31,CUST1006,Pooja Shah,Electronics,Headphones,South,Karnataka,5,2491,0.15,10586.75,6674.8,3911.95,Debit Card
+ORD1310,2026-04-12,CUST1036,Riya Desai,Electronics,Smartphone,East,Odisha,5,37584,0,187920,118029.05,69890.95,Credit Card
+ORD1311,2026-01-25,CUST1013,Sahil Khan,Accessories,Mouse,North,Delhi,3,608,0,1824,1136.55,687.45,Debit Card
+ORD1312,2026-06-25,CUST1042,Omkar Pawar,Electronics,Headphones,West,Maharashtra,5,5970,0,29850,18676.19,11173.81,Credit Card
+ORD1313,2026-01-24,CUST1026,Tanvi Jain,Office Supplies,Printer Paper,East,Bihar,1,312,0.1,280.8,177.79,103.01,UPI
+ORD1314,2026-04-08,CUST1029,Vikram Singh,Accessories,Keyboard,South,Tamil Nadu,6,1407,0,8442,7227.7,1214.3,UPI
+ORD1315,2026-06-07,CUST1006,Rahul Verma,Furniture,Table Lamp,East,West Bengal,5,3451,0.1,15529.5,11291.78,4237.72,Cash
+ORD1316,2026-02-05,CUST1023,Tanvi Jain,Accessories,Keyboard,East,Bihar,4,1516,0.15,5154.4,4260.94,893.46,Net Banking
+ORD1317,2026-05-05,CUST1039,Pooja Shah,Office Supplies,Stapler,West,Gujarat,6,409,0.1,2208.6,1524.63,683.97,UPI
+ORD1318,2026-03-13,CUST1016,Pooja Shah,Electronics,Smartphone,North,Delhi,6,48912,0.15,249451.2,219491.49,29959.71,Debit Card
+ORD1319,2026-05-17,CUST1016,Nikhil Shinde,Electronics,Smartphone,North,Delhi,7,32379,0.05,215320.35,185854.53,29465.82,Debit Card
+ORD1320,2026-06-28,CUST1013,Tanvi Jain,Office Supplies,Stapler,North,Haryana,1,422,0.05,400.9,347.33,53.57,Net Banking
+ORD1321,2026-03-21,CUST1034,Tanvi Jain,Furniture,Desk,North,Delhi,1,15035,0,15035,9541.27,5493.73,UPI
+ORD1322,2026-03-26,CUST1002,Vikram Singh,Furniture,Bookshelf,South,Karnataka,6,5637,0,33822,29049.14,4772.86,Net Banking
+ORD1323,2026-06-30,CUST1046,Sahil Khan,Furniture,Office Chair,West,Gujarat,2,17687,0.15,30067.9,25370.51,4697.39,Net Banking
+ORD1324,2026-01-26,CUST1032,Kunal More,Office Supplies,Printer Paper,East,Bihar,6,404,0,2424,2117.91,306.09,Credit Card
+ORD1325,2026-05-24,CUST1012,Aarav Sharma,Office Supplies,Stapler,South,Karnataka,3,234,0.1,631.8,442.12,189.68,Net Banking
+ORD1326,2026-04-11,CUST1010,Kunal More,Electronics,Smartphone,West,Gujarat,6,29932,0.15,152653.2,103412.28,49240.92,UPI
+ORD1327,2026-03-02,CUST1001,Rahul Verma,Office Supplies,Stapler,South,Tamil Nadu,3,283,0,849,707.75,141.25,Credit Card
+ORD1328,2026-03-05,CUST1029,Meera Nair,Electronics,Headphones,West,Gujarat,5,4071,0,20355,16432.74,3922.26,Credit Card
+ORD1329,2026-04-16,CUST1037,Pooja Shah,Accessories,USB Hub,West,Gujarat,7,2305,0.05,15328.25,11679.61,3648.64,Credit Card
+ORD1330,2026-04-26,CUST1005,Kunal More,Electronics,Headphones,South,Karnataka,1,7747,0.05,7359.65,4601.4,2758.25,Credit Card
+ORD1331,2026-04-07,CUST1039,Kavya Iyer,Furniture,Desk,West,Gujarat,2,18992,0.15,32286.4,27923.76,4362.64,Cash
+ORD1332,2026-06-30,CUST1007,Kunal More,Electronics,Laptop,North,Delhi,3,79133,0.15,201789.15,171790.34,29998.81,Credit Card
+ORD1333,2026-02-18,CUST1026,Nikhil Shinde,Accessories,Keyboard,West,Maharashtra,5,2969,0.05,14102.75,9834.19,4268.56,Net Banking
+ORD1334,2026-05-06,CUST1041,Kavya Iyer,Furniture,Office Chair,South,Telangana,6,5893,0,35358,25852.98,9505.02,Cash
+ORD1335,2026-02-21,CUST1008,Ananya Rao,Electronics,Monitor,West,Gujarat,4,9421,0,37684,29616.97,8067.03,Cash
+ORD1336,2026-05-01,CUST1024,Sahil Khan,Accessories,USB Hub,East,West Bengal,5,2332,0,11660,9175.08,2484.92,Debit Card
+ORD1337,2026-02-17,CUST1037,Priya Patil,Accessories,Mouse,North,Punjab,5,491,0.1,2209.5,1637.05,572.45,Credit Card
+ORD1338,2026-06-28,CUST1004,Sahil Khan,Electronics,Monitor,North,Haryana,6,10404,0.15,53060.4,38608.69,14451.71,Net Banking
+ORD1339,2026-04-18,CUST1003,Akash Yadav,Accessories,USB Hub,East,Bihar,4,1672,0.1,6019.2,4199.61,1819.59,Net Banking
+ORD1340,2026-05-13,CUST1013,Vikram Singh,Furniture,Office Chair,North,Delhi,8,6970,0,55760,48330.31,7429.69,UPI
+ORD1341,2026-04-19,CUST1017,Kunal More,Electronics,Headphones,North,Haryana,7,6796,0,47572,41829.58,5742.42,UPI
+ORD1342,2026-01-23,CUST1030,Aarav Sharma,Accessories,Backpack,South,Telangana,7,3178,0.15,18909.1,13327.0,5582.1,Net Banking
+ORD1343,2026-05-31,CUST1037,Sneha Kulkarni,Accessories,Keyboard,West,Maharashtra,7,1160,0,8120,5347.28,2772.72,Debit Card
+ORD1344,2026-05-18,CUST1012,Rahul Verma,Office Supplies,Stapler,East,West Bengal,5,330,0.1,1485.0,1173.51,311.49,Cash
+ORD1345,2026-02-06,CUST1031,Rahul Verma,Accessories,Backpack,West,Goa,7,1058,0.05,7035.7,5625.28,1410.42,Debit Card
+ORD1346,2026-01-06,CUST1044,Sneha Kulkarni,Office Supplies,Printer Paper,East,Bihar,5,668,0.05,3173.0,2198.54,974.46,Credit Card
+ORD1347,2026-02-04,CUST1042,Rohan Mehta,Office Supplies,Pen Set,East,Bihar,8,480,0.05,3648.0,2517.3,1130.7,Credit Card
+ORD1348,2026-04-24,CUST1011,Rohan Mehta,Furniture,Bookshelf,West,Goa,8,10171,0.15,69162.8,58475.01,10687.79,Debit Card
+ORD1349,2026-05-10,CUST1016,Priya Patil,Accessories,Backpack,North,Delhi,1,1455,0,1455,975.02,479.98,Cash
+ORD1350,2026-01-13,CUST1008,Aarav Sharma,Office Supplies,Stapler,East,Bihar,5,221,0.05,1049.75,875.61,174.14,Credit Card
+ORD1351,2026-04-06,CUST1036,Isha Gupta,Accessories,USB Hub,East,Bihar,8,1716,0,13728,11939.73,1788.27,Debit Card
+ORD1352,2026-02-11,CUST1037,Aditya Deshmukh,Office Supplies,Notebook,West,Maharashtra,2,271,0.05,514.9,322.91,191.99,Credit Card
+ORD1353,2026-06-15,CUST1009,Neha Joshi,Furniture,Table Lamp,West,Gujarat,5,1646,0.1,7407.0,5580.83,1826.17,Net Banking
+ORD1354,2026-01-03,CUST1030,Rahul Verma,Furniture,Table Lamp,East,Odisha,5,1833,0.05,8706.75,6357.58,2349.17,Credit Card
+ORD1355,2026-04-30,CUST1042,Kavya Iyer,Office Supplies,Pen Set,South,Telangana,7,446,0.15,2653.7,1715.89,937.81,Net Banking
+ORD1356,2026-03-14,CUST1021,Rahul Verma,Office Supplies,Pen Set,South,Telangana,2,450,0.1,810.0,515.64,294.36,Debit Card
+ORD1357,2026-06-17,CUST1026,Kunal More,Office Supplies,Pen Set,West,Goa,3,196,0.15,499.8,409.35,90.45,Credit Card
+ORD1358,2026-01-07,CUST1046,Nikhil Shinde,Accessories,USB Hub,West,Goa,5,1105,0.1,4972.5,3606.04,1366.46,Credit Card
+ORD1359,2026-03-29,CUST1036,Neha Joshi,Furniture,Table Lamp,North,Haryana,8,2989,0.05,22716.4,17080.5,5635.9,Debit Card
+ORD1360,2026-01-25,CUST1022,Rohan Mehta,Accessories,USB Hub,North,Haryana,5,762,0.15,3238.5,2650.25,588.25,Credit Card
+ORD1361,2026-04-01,CUST1008,Tanvi Jain,Furniture,Table Lamp,South,Tamil Nadu,7,2057,0.05,13679.05,9802.92,3876.13,UPI
+ORD1362,2026-06-12,CUST1020,Meera Nair,Electronics,Headphones,East,Bihar,4,5068,0.15,17231.2,11220.13,6011.07,UPI
+ORD1363,2026-02-08,CUST1021,Neha Joshi,Furniture,Office Chair,East,West Bengal,6,8281,0.1,44717.4,39202.39,5515.01,UPI
+ORD1364,2026-05-05,CUST1018,Aditya Deshmukh,Office Supplies,Printer Paper,West,Gujarat,3,573,0.05,1633.05,1281.89,351.16,Credit Card
+ORD1365,2026-05-28,CUST1028,Tanvi Jain,Furniture,Desk,East,Odisha,2,15021,0,30042,23425.69,6616.31,Cash
+ORD1366,2026-01-02,CUST1013,Aarav Sharma,Electronics,Smartphone,South,Telangana,4,52981,0.05,201327.8,174554.79,26773.01,UPI
+ORD1367,2026-06-10,CUST1038,Ananya Rao,Furniture,Table Lamp,East,Bihar,6,1726,0.05,9838.2,6429.48,3408.72,Credit Card
+ORD1368,2026-01-17,CUST1044,Vikram Singh,Electronics,Smartphone,South,Tamil Nadu,5,37542,0.1,168939.0,136711.57,32227.43,Debit Card
+ORD1369,2026-05-06,CUST1009,Aditya Deshmukh,Office Supplies,Stapler,North,Haryana,3,216,0.1,583.2,364.48,218.72,UPI
+ORD1370,2026-05-31,CUST1040,Priya Patil,Furniture,Desk,South,Telangana,6,9017,0,54102,38820.89,15281.11,Net Banking
+ORD1371,2026-01-13,CUST1025,Sneha Kulkarni,Electronics,Monitor,East,Odisha,1,19708,0,19708,15753.29,3954.71,Net Banking
+ORD1372,2026-03-06,CUST1027,Sneha Kulkarni,Accessories,USB Hub,West,Gujarat,3,1937,0,5811,4653.16,1157.84,Net Banking
+ORD1373,2026-03-11,CUST1008,Sneha Kulkarni,Furniture,Office Chair,West,Gujarat,2,11862,0.15,20165.4,16271.04,3894.36,Cash
+ORD1374,2026-02-20,CUST1003,Riya Desai,Furniture,Bookshelf,South,Karnataka,4,7808,0.05,29670.4,23822.17,5848.23,Cash
+ORD1375,2026-02-23,CUST1037,Tanvi Jain,Accessories,USB Hub,West,Maharashtra,4,1177,0,4708,2934.57,1773.43,Credit Card
+ORD1376,2026-01-24,CUST1017,Omkar Pawar,Electronics,Headphones,East,Odisha,2,7127,0.05,13541.3,10664.15,2877.15,UPI
+ORD1377,2026-01-26,CUST1048,Sneha Kulkarni,Furniture,Desk,South,Tamil Nadu,1,21321,0.05,20254.95,14455.06,5799.89,UPI
+ORD1378,2026-01-12,CUST1018,Rohan Mehta,Electronics,Laptop,East,Bihar,3,69534,0.05,198171.9,141288.07,56883.83,Debit Card
+ORD1379,2026-03-29,CUST1045,Tanvi Jain,Furniture,Desk,South,Tamil Nadu,7,8865,0.1,55849.5,48600.27,7249.23,Cash
+ORD1380,2026-06-16,CUST1027,Nikhil Shinde,Furniture,Desk,North,Delhi,3,8852,0,26556,23242.02,3313.98,Cash
+ORD1381,2026-05-26,CUST1032,Sneha Kulkarni,Accessories,Mouse,North,Punjab,7,771,0.05,5127.15,3993.81,1133.34,Cash
+ORD1382,2026-04-23,CUST1022,Akash Yadav,Electronics,Smartphone,North,Haryana,5,22150,0.05,105212.5,65569.87,39642.63,Net Banking
+ORD1383,2026-06-26,CUST1036,Kavya Iyer,Electronics,Monitor,East,West Bengal,4,16091,0.1,57927.6,41122.51,16805.09,UPI
+ORD1384,2026-01-03,CUST1021,Pooja Shah,Furniture,Desk,West,Gujarat,8,15283,0.1,110037.6,93097.1,16940.5,Debit Card
+ORD1385,2026-03-13,CUST1006,Omkar Pawar,Electronics,Smartphone,East,West Bengal,4,51222,0.15,174154.8,137105.54,37049.26,Cash
+ORD1386,2026-05-27,CUST1042,Aarav Sharma,Accessories,Mouse,East,Bihar,8,580,0.1,4176.0,2932.29,1243.71,UPI
+ORD1387,2026-04-14,CUST1036,Aditya Deshmukh,Accessories,Keyboard,South,Telangana,1,846,0,846,698.68,147.32,Cash
+ORD1388,2026-03-29,CUST1043,Isha Gupta,Office Supplies,Stapler,East,Bihar,4,147,0.1,529.2,373.78,155.42,Cash
+ORD1389,2026-01-30,CUST1034,Isha Gupta,Electronics,Monitor,South,Telangana,4,21440,0,85760,60782.64,24977.36,UPI
+ORD1390,2026-01-12,CUST1008,Sahil Khan,Furniture,Desk,North,Delhi,3,15067,0.1,40680.9,26353.49,14327.41,Credit Card
+ORD1391,2026-04-28,CUST1030,Nikhil Shinde,Furniture,Bookshelf,West,Gujarat,2,9036,0.1,16264.8,10280.82,5983.98,Net Banking
+ORD1392,2026-02-04,CUST1050,Neha Joshi,Accessories,USB Hub,East,Bihar,1,508,0.15,431.8,372.72,59.08,Net Banking
+ORD1393,2026-02-14,CUST1025,Meera Nair,Furniture,Office Chair,South,Telangana,7,6696,0.15,39841.2,30980.59,8860.61,Net Banking
+ORD1394,2026-06-27,CUST1009,Meera Nair,Furniture,Table Lamp,East,West Bengal,7,1920,0.05,12768.0,11137.88,1630.12,Net Banking
+ORD1395,2026-06-29,CUST1040,Ananya Rao,Office Supplies,Pen Set,North,Delhi,6,459,0.15,2340.9,1836.37,504.53,Debit Card
+ORD1396,2026-06-22,CUST1008,Isha Gupta,Furniture,Office Chair,South,Telangana,3,16639,0.15,42429.45,32290.84,10138.61,Net Banking
+ORD1397,2026-05-03,CUST1025,Vikram Singh,Accessories,Keyboard,West,Maharashtra,5,3461,0.1,15574.5,12929.32,2645.18,UPI
+ORD1398,2026-06-21,CUST1004,Ananya Rao,Electronics,Smartphone,South,Karnataka,5,31100,0,155500,136174.21,19325.79,Credit Card
+ORD1399,2026-05-19,CUST1042,Riya Desai,Electronics,Smartphone,North,Haryana,8,41506,0,332048,259059.96,72988.04,Cash
+ORD1400,2026-03-02,CUST1004,Aarav Sharma,Office Supplies,Pen Set,South,Telangana,1,454,0.1,408.6,294.5,114.1,Debit Card
+ORD1401,2026-02-21,CUST1013,Ananya Rao,Accessories,Mouse,North,Haryana,4,2099,0.05,7976.2,6511.2,1465.0,Cash
+ORD1402,2026-02-15,CUST1018,Riya Desai,Electronics,Headphones,West,Gujarat,3,2731,0.15,6964.05,4533.82,2430.23,Debit Card
+ORD1403,2026-02-03,CUST1010,Kunal More,Furniture,Desk,North,Delhi,5,16568,0,82840,58480.59,24359.41,Net Banking
+ORD1404,2026-01-14,CUST1015,Neha Joshi,Office Supplies,Pen Set,South,Telangana,6,351,0,2106,1735.02,370.98,Net Banking
+ORD1405,2026-01-18,CUST1022,Kunal More,Furniture,Desk,North,Haryana,7,13814,0,96698,68737.27,27960.73,Debit Card
+ORD1406,2026-03-17,CUST1042,Kavya Iyer,Furniture,Bookshelf,East,West Bengal,1,11280,0,11280,8955.46,2324.54,Net Banking
+ORD1407,2026-03-04,CUST1034,Isha Gupta,Electronics,Smartphone,South,Karnataka,7,39032,0,273224,196810.83,76413.17,Net Banking
+ORD1408,2026-05-11,CUST1033,Rohan Mehta,Accessories,Mouse,North,Punjab,1,1396,0.05,1326.2,1131.98,194.22,UPI
+ORD1409,2026-02-12,CUST1014,Riya Desai,Electronics,Laptop,East,West Bengal,4,67145,0,268580,226919.81,41660.19,Cash
+ORD1410,2026-06-15,CUST1006,Rohan Mehta,Electronics,Headphones,South,Karnataka,3,7318,0,21954,16232.76,5721.24,UPI
+ORD1411,2026-02-15,CUST1025,Omkar Pawar,Office Supplies,Notebook,South,Tamil Nadu,2,222,0.15,377.4,314.61,62.79,Cash
+ORD1412,2026-04-21,CUST1038,Priya Patil,Office Supplies,Printer Paper,West,Goa,7,258,0,1806,1370.86,435.14,UPI
+ORD1413,2026-04-02,CUST1026,Aarav Sharma,Electronics,Monitor,East,Odisha,5,13748,0.15,58429.0,37540.13,20888.87,Cash
+ORD1414,2026-02-10,CUST1044,Isha Gupta,Furniture,Table Lamp,North,Punjab,7,1358,0.15,8080.1,5629.36,2450.74,UPI
+ORD1415,2026-05-22,CUST1036,Rohan Mehta,Furniture,Office Chair,East,Bihar,1,7019,0,7019,5396.96,1622.04,Debit Card
+ORD1416,2026-02-23,CUST1040,Rahul Verma,Office Supplies,Stapler,North,Delhi,7,228,0.15,1356.6,891.34,465.26,Credit Card
+ORD1417,2026-01-30,CUST1043,Rohan Mehta,Furniture,Desk,West,Gujarat,1,17993,0.15,15294.05,11316.51,3977.54,Debit Card
+ORD1418,2026-01-26,CUST1019,Kavya Iyer,Furniture,Bookshelf,North,Delhi,6,11482,0.05,65447.4,42759.14,22688.26,UPI
+ORD1419,2026-02-19,CUST1038,Vikram Singh,Office Supplies,Printer Paper,South,Telangana,8,498,0.05,3784.8,2953.09,831.71,Net Banking
+ORD1420,2026-05-26,CUST1046,Meera Nair,Office Supplies,Stapler,North,Delhi,7,281,0,1967,1222.01,744.99,Debit Card
+ORD1421,2026-04-03,CUST1032,Riya Desai,Furniture,Office Chair,South,Tamil Nadu,6,16134,0.1,87123.6,64501.14,22622.46,UPI
+ORD1422,2026-02-14,CUST1005,Aarav Sharma,Electronics,Headphones,West,Goa,3,3498,0.15,8919.9,5985.9,2934.0,Net Banking
+ORD1423,2026-06-11,CUST1017,Riya Desai,Electronics,Laptop,West,Goa,7,84067,0.15,500198.65,337793.04,162405.61,Net Banking
+ORD1424,2026-05-01,CUST1030,Akash Yadav,Furniture,Office Chair,South,Karnataka,7,10993,0,76951,65544.84,11406.16,Net Banking
+ORD1425,2026-01-24,CUST1009,Omkar Pawar,Accessories,Backpack,North,Haryana,1,2390,0,2390,2008.74,381.26,Credit Card
+ORD1426,2026-02-15,CUST1005,Rahul Verma,Furniture,Office Chair,East,West Bengal,8,17057,0.05,129633.2,81734.92,47898.28,Debit Card
+ORD1427,2026-03-01,CUST1003,Kunal More,Electronics,Smartphone,East,West Bengal,6,31551,0.1,170375.4,126438.19,43937.21,UPI
+ORD1428,2026-06-30,CUST1042,Sahil Khan,Office Supplies,Notebook,North,Punjab,5,293,0.15,1245.25,948.3,296.95,Debit Card
+ORD1429,2026-05-31,CUST1026,Isha Gupta,Electronics,Headphones,North,Haryana,5,5432,0.1,24444.0,21337.05,3106.95,Debit Card
+ORD1430,2026-05-05,CUST1015,Rohan Mehta,Accessories,USB Hub,East,West Bengal,1,2316,0.15,1968.6,1671.99,296.61,Net Banking
+ORD1431,2026-06-14,CUST1015,Meera Nair,Office Supplies,Notebook,West,Goa,3,134,0,402,265.69,136.31,Debit Card
+ORD1432,2026-01-30,CUST1027,Aarav Sharma,Accessories,USB Hub,North,Haryana,8,1882,0.1,13550.4,9143.58,4406.82,Credit Card
+ORD1433,2026-01-12,CUST1010,Priya Patil,Furniture,Office Chair,West,Goa,3,14396,0,43188,33845.59,9342.41,Credit Card
+ORD1434,2026-03-08,CUST1047,Ananya Rao,Furniture,Desk,West,Goa,7,15464,0.15,92010.8,80233.73,11777.07,UPI
+ORD1435,2026-02-25,CUST1010,Nikhil Shinde,Accessories,Mouse,East,Bihar,8,1642,0.1,11822.4,7854.18,3968.22,Credit Card
+ORD1436,2026-06-09,CUST1025,Sahil Khan,Office Supplies,Notebook,West,Maharashtra,6,122,0.1,658.8,510.64,148.16,Credit Card
+ORD1437,2026-01-28,CUST1040,Kavya Iyer,Electronics,Laptop,North,Punjab,7,71630,0,501410,389812.61,111597.39,UPI
+ORD1438,2026-05-17,CUST1042,Meera Nair,Electronics,Monitor,West,Goa,8,10526,0,84208,71957.09,12250.91,Net Banking
+ORD1439,2026-04-18,CUST1023,Nikhil Shinde,Office Supplies,Stapler,East,Odisha,7,142,0,994,858.81,135.19,Net Banking
+ORD1440,2026-01-26,CUST1039,Riya Desai,Accessories,Keyboard,West,Gujarat,5,1248,0.1,5616.0,4600.2,1015.8,Cash
+ORD1441,2026-03-07,CUST1042,Aditya Deshmukh,Furniture,Bookshelf,West,Gujarat,1,3589,0.15,3050.65,2305.87,744.78,Debit Card
+ORD1442,2026-04-15,CUST1035,Meera Nair,Office Supplies,Stapler,South,Tamil Nadu,3,174,0.1,469.8,370.86,98.94,Net Banking
+ORD1443,2026-04-04,CUST1024,Riya Desai,Office Supplies,Notebook,East,West Bengal,7,254,0,1778,1293.39,484.61,Net Banking
+ORD1444,2026-05-04,CUST1015,Omkar Pawar,Office Supplies,Notebook,West,Goa,6,158,0.1,853.2,692.2,161.0,Credit Card
+ORD1445,2026-01-26,CUST1025,Aarav Sharma,Furniture,Bookshelf,West,Maharashtra,7,11828,0.05,78656.2,65144.79,13511.41,UPI
+ORD1446,2026-02-07,CUST1006,Kavya Iyer,Accessories,USB Hub,North,Punjab,7,2396,0,16772,10678.08,6093.92,UPI
+ORD1447,2026-04-09,CUST1032,Omkar Pawar,Accessories,Backpack,North,Haryana,5,3414,0.15,14509.5,9212.67,5296.83,UPI
+ORD1448,2026-02-21,CUST1011,Priya Patil,Office Supplies,Pen Set,North,Haryana,1,199,0.15,169.15,127.33,41.82,Debit Card
+ORD1449,2026-03-03,CUST1026,Sahil Khan,Electronics,Laptop,South,Telangana,2,70159,0.05,133302.1,109669.63,23632.47,Net Banking
+ORD1450,2026-02-21,CUST1018,Pooja Shah,Electronics,Laptop,South,Tamil Nadu,2,67248,0.15,114321.6,79335.58,34986.02,Net Banking
+ORD1451,2026-02-19,CUST1005,Akash Yadav,Accessories,Mouse,West,Goa,1,1227,0.05,1165.65,775.75,389.9,Debit Card
+ORD1452,2026-03-29,CUST1029,Sahil Khan,Electronics,Monitor,South,Telangana,5,22155,0.15,94158.75,78285.31,15873.44,Net Banking
+ORD1453,2026-05-04,CUST1008,Rahul Verma,Furniture,Table Lamp,West,Gujarat,8,2191,0.1,15775.2,13457.76,2317.44,UPI
+ORD1454,2026-04-08,CUST1017,Pooja Shah,Furniture,Table Lamp,West,Goa,6,1741,0.1,9401.4,8164.33,1237.07,Debit Card
+ORD1455,2026-01-24,CUST1021,Isha Gupta,Accessories,Backpack,North,Punjab,6,3659,0,21954,16776.88,5177.12,Credit Card
+ORD1456,2026-05-27,CUST1016,Rahul Verma,Office Supplies,Notebook,North,Haryana,4,126,0.1,453.6,368.16,85.44,Credit Card
+ORD1457,2026-02-28,CUST1044,Tanvi Jain,Furniture,Bookshelf,West,Maharashtra,6,7591,0,45546,37462.68,8083.32,Net Banking
+ORD1458,2026-01-02,CUST1012,Akash Yadav,Electronics,Smartphone,South,Tamil Nadu,6,49607,0.15,252995.7,177605.11,75390.59,Debit Card
+ORD1459,2026-04-12,CUST1035,Priya Patil,Furniture,Table Lamp,East,Odisha,3,3162,0,9486,7177.97,2308.03,Net Banking
+ORD1460,2026-03-30,CUST1045,Aarav Sharma,Accessories,Backpack,East,Odisha,3,4424,0.1,11944.8,10438.46,1506.34,UPI
+ORD1461,2026-06-22,CUST1036,Rahul Verma,Furniture,Bookshelf,South,Karnataka,2,9716,0.05,18460.4,13181.03,5279.37,Credit Card
+ORD1462,2026-03-10,CUST1027,Isha Gupta,Accessories,USB Hub,East,West Bengal,6,2463,0.05,14039.1,9375.56,4663.54,Debit Card
+ORD1463,2026-04-13,CUST1047,Rahul Verma,Office Supplies,Notebook,North,Delhi,3,195,0.15,497.25,325.25,172.0,Credit Card
+ORD1464,2026-05-23,CUST1001,Neha Joshi,Accessories,Keyboard,North,Punjab,4,2260,0,9040,7485.21,1554.79,Cash
+ORD1465,2026-05-08,CUST1007,Neha Joshi,Furniture,Office Chair,West,Gujarat,6,15332,0.1,82792.8,57790.11,25002.69,UPI
+ORD1466,2026-02-25,CUST1024,Riya Desai,Office Supplies,Notebook,South,Tamil Nadu,2,201,0.1,361.8,294.36,67.44,Net Banking
+ORD1467,2026-03-07,CUST1037,Riya Desai,Office Supplies,Stapler,North,Haryana,7,130,0,910,647.27,262.73,Credit Card
+ORD1468,2026-03-14,CUST1019,Omkar Pawar,Office Supplies,Stapler,East,Bihar,8,286,0.1,2059.2,1753.01,306.19,Credit Card
+ORD1469,2026-02-12,CUST1021,Kunal More,Office Supplies,Printer Paper,South,Karnataka,7,465,0,3255,2085.05,1169.95,Debit Card
+ORD1470,2026-03-10,CUST1011,Neha Joshi,Accessories,Backpack,East,Odisha,8,2011,0.05,15283.6,12447.77,2835.83,UPI
+ORD1471,2026-02-02,CUST1005,Tanvi Jain,Furniture,Table Lamp,West,Maharashtra,2,1830,0,3660,2428.03,1231.97,Net Banking
+ORD1472,2026-01-14,CUST1042,Sahil Khan,Electronics,Laptop,North,Delhi,2,78009,0,156018,107377.45,48640.55,Debit Card
+ORD1473,2026-02-28,CUST1003,Isha Gupta,Furniture,Table Lamp,North,Delhi,8,1963,0,15704,10272.49,5431.51,Debit Card
+ORD1474,2026-05-02,CUST1039,Omkar Pawar,Accessories,Mouse,North,Haryana,5,2183,0.15,9277.75,6825.27,2452.48,Net Banking
+ORD1475,2026-04-22,CUST1020,Isha Gupta,Office Supplies,Pen Set,West,Gujarat,8,277,0.15,1883.6,1279.06,604.54,Cash
+ORD1476,2026-03-08,CUST1019,Tanvi Jain,Furniture,Office Chair,North,Punjab,1,9973,0,9973,7540.21,2432.79,Net Banking
+ORD1477,2026-01-03,CUST1039,Pooja Shah,Accessories,USB Hub,East,Odisha,8,2439,0.05,18536.4,11536.58,6999.82,UPI
+ORD1478,2026-05-21,CUST1046,Sahil Khan,Office Supplies,Stapler,North,Delhi,7,216,0.15,1285.2,942.88,342.32,Cash
+ORD1479,2026-02-26,CUST1042,Riya Desai,Office Supplies,Notebook,South,Tamil Nadu,7,100,0,700,528.02,171.98,Debit Card
+ORD1480,2026-04-16,CUST1029,Rahul Verma,Furniture,Bookshelf,East,Bihar,3,4621,0,13863,9638.87,4224.13,Net Banking
+ORD1481,2026-05-06,CUST1007,Ananya Rao,Furniture,Bookshelf,West,Maharashtra,1,8753,0,8753,5539.81,3213.19,Debit Card
+ORD1482,2026-02-02,CUST1014,Kunal More,Accessories,Mouse,West,Gujarat,1,1889,0,1889,1215.48,673.52,Cash
+ORD1483,2026-03-21,CUST1018,Sahil Khan,Accessories,USB Hub,North,Delhi,8,1260,0,10080,7115.12,2964.88,UPI
+ORD1484,2026-05-20,CUST1050,Pooja Shah,Accessories,USB Hub,West,Maharashtra,4,871,0.05,3309.8,2755.36,554.44,Cash
+ORD1485,2026-04-24,CUST1043,Aditya Deshmukh,Furniture,Table Lamp,West,Goa,4,937,0.1,3373.2,2736.29,636.91,Cash
+ORD1486,2026-04-10,CUST1031,Ananya Rao,Office Supplies,Pen Set,West,Gujarat,3,265,0,795,646.83,148.17,Credit Card
+ORD1487,2026-04-03,CUST1011,Rahul Verma,Electronics,Smartphone,South,Karnataka,2,32272,0,64544,50638.4,13905.6,Net Banking
+ORD1488,2026-01-31,CUST1039,Vikram Singh,Accessories,Backpack,East,Bihar,4,4132,0,16528,14410.71,2117.29,Debit Card
+ORD1489,2026-01-23,CUST1004,Priya Patil,Furniture,Table Lamp,South,Telangana,8,1445,0,11560,9228.88,2331.12,Debit Card
+ORD1490,2026-06-15,CUST1042,Isha Gupta,Furniture,Office Chair,South,Telangana,2,16490,0,32980,24630.76,8349.24,Cash
+ORD1491,2026-02-19,CUST1046,Omkar Pawar,Electronics,Laptop,West,Gujarat,6,77378,0,464268,318107.62,146160.38,Net Banking
+ORD1492,2026-03-17,CUST1039,Riya Desai,Accessories,USB Hub,East,Odisha,3,888,0.15,2264.4,1608.61,655.79,Credit Card
+ORD1493,2026-01-18,CUST1050,Akash Yadav,Furniture,Office Chair,East,West Bengal,5,12362,0.05,58719.5,44674.83,14044.67,Cash
+ORD1494,2026-02-17,CUST1034,Tanvi Jain,Electronics,Laptop,East,West Bengal,4,76930,0.05,292334.0,236048.28,56285.72,Net Banking
+ORD1495,2026-02-09,CUST1009,Neha Joshi,Office Supplies,Pen Set,West,Maharashtra,7,265,0.05,1762.25,1143.21,619.04,UPI
+ORD1496,2026-02-21,CUST1032,Akash Yadav,Electronics,Monitor,East,Bihar,4,16952,0,67808,42601.9,25206.1,Net Banking
+ORD1497,2026-06-29,CUST1014,Tanvi Jain,Office Supplies,Notebook,West,Maharashtra,6,92,0,552,429.21,122.79,UPI
+ORD1498,2026-04-30,CUST1018,Akash Yadav,Electronics,Smartphone,West,Goa,7,41653,0.05,276992.45,228935.61,48056.84,UPI
+ORD1499,2026-01-19,CUST1025,Aditya Deshmukh,Office Supplies,Pen Set,North,Haryana,4,139,0.15,472.6,304.95,167.65,Credit Card
+ORD1500,2026-05-15,CUST1007,Nikhil Shinde,Furniture,Table Lamp,East,Bihar,3,3134,0.15,7991.7,6511.56,1480.14,Debit Card
+ORD1501,2026-06-22,CUST1026,Akash Yadav,Accessories,Mouse,North,Haryana,7,1838,0,12866,8534.92,4331.08,Debit Card
